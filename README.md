@@ -62,5 +62,5 @@ C++                      1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Nabila224/Nabila224/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2025 10:25:16 UTC
+ Last Updated on 19/09/2025 12:49:01 UTC
 <!--END_SECTION:waka-->
