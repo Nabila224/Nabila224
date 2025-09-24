@@ -188,7 +188,7 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#38 Need allocator guidance for forward_list STL implementation</span>
+                                        <span class="issue">#40 Request for help: Refactor all insertion and deletion methods to use allocator</span>
                                     </div>
                                 </div>
                                 <div class="details">
@@ -201,7 +201,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Sept 2025, 23:31:26 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Sept 2025, 01:32:37 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
