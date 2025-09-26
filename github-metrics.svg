@@ -193,14 +193,14 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f69f5b7</div>
-                                        <div class="message">Merge pull request #44 from yusuf601/feat/allocator
+                                        <div class="sha">#93a1f7a</div>
+                                        <div class="message">Merge pull request #45 from yusuf601/feat/allocator
 
-fix: implementation sort method</div>
+feat: add overload sort and add testing</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d1197d3</div>
-                                        <div class="message">fix: implementation sort method</div>
+                                        <div class="sha">#cd55ce0</div>
+                                        <div class="message">feat: add overload sort and add testing</div>
                                     </div>
                                 </div>
                             </section>
@@ -210,7 +210,7 @@ fix: implementation sort method</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Sept 2025, 03:25:50 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Sept 2025, 05:21:21 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
