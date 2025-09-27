@@ -193,14 +193,14 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#10c11c8</div>
-                                        <div class="message">Merge pull request #46 from yusuf601/main
+                                        <div class="sha">#70d3268</div>
+                                        <div class="message">Merge pull request #49 from yusuf601/main
 
-feat: implement push and pop back</div>
+feat: implement resize and get_allocator</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#ecefa03</div>
-                                        <div class="message">feat: implement push and pop back</div>
+                                        <div class="sha">#2108361</div>
+                                        <div class="message">feat: implement resize and get_allocator</div>
                                     </div>
                                 </div>
                             </section>
@@ -210,7 +210,7 @@ feat: implement push and pop back</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Sept 2025, 01:30:24 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Sept 2025, 03:23:57 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
