@@ -187,14 +187,14 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#154 feat: implement multiplication method hash</span>
+                                        <span class="issue">#155 Feat/linear probing</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>opened by yusuf601 in <span class="repo">bellshade/CPP</span></div>
                                     <div class="comment">
-                                        ternyata bisa langsung di automisasi formatting dengan
-                                        <code>clang-format -i dir</code>
+                                        @slowy07  yg penting ngk ada yg fail di
+                                        <code>linear_probing/division_method.cpp</code>
                                     </div>
                                 </div>
                             </section>
@@ -204,7 +204,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Oct 2025, 03:23:29 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Oct 2025, 05:20:32 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
