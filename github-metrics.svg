@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="420" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="404" class="">
     <defs>
         <style/>
     </defs>
@@ -186,21 +186,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Build-X-From-Scratch/forward_list_sratch</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">yusuf601/CPP</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">feat/linear_probing</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6ea5f61</div>
-                                        <div class="message">Merge pull request #73 from yusuf601/main
-
-test: implement test for cycle detect and mid</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7226717</div>
-                                        <div class="message">test: implement test for cycle detect and mid</div>
+                                        <div class="sha">#8393243</div>
+                                        <div class="message">docs: add missing section after refactor</div>
                                     </div>
                                 </div>
                             </section>
@@ -210,7 +204,7 @@ test: implement test for cycle detect and mid</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Oct 2025, 19:52:12 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Oct 2025, 21:24:45 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
