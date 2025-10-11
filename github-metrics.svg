@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="435" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="404" class="">
     <defs>
         <style/>
     </defs>
@@ -186,188 +186,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 3 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">yusuf601/CPP</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">feat/quadratic_probing</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c6b8e19</div>
-                                        <div class="message">feat: implement division method
-
-# Perubahan yang diberikan
-### Menambahkan hash function menggunakan division method
-
-`division method` adalah salah satu hash function yang digunakan untuk memetakan value pada hash table
-### Perubahan yang dilakuan
-1.**Membuat direktori baru**
-```bash
-├── asset
-│   ├── hash_table_chaining.png
-│   ├── hash_table_collision.png
-│   ├── hash_table_visualisasi.png
-│   └── tabel_hash_kode_demo.png
-├── hash_function
-│   └── division_method.cpp
-├── hash_table.cpp
-└── readme.md
-```
-Menambahkan dir `hash_function` berisi program hash function yang dipakai pada hash table
-2.**Menambahkan program division method**
-contoh output:
-```bash
-demo insert
-0-&gt; nullptr
-1-&gt;1 -&gt; nullptr
-2-&gt; nullptr
-3-&gt;3 -&gt; nullptr
-4-&gt; nullptr
-5-&gt;5 -&gt; nullptr
-6-&gt; nullptr
-7-&gt; nullptr
-8-&gt; nullptr
-9-&gt; nullptr
-10-&gt;10 -&gt; nullptr
-demo search
-ditemukan
-```
-# Checklist:
-##### Umum:
-- [x] Saya menambah algoritma terbaru.
-- [x] Saya memperbaiki dokumentasi.
-- [x] Saya menambah dokumentasi.
-
-##### Contributor Requirements (Syarat Kontributor) dan Lain-Lain:
- - [x] Saya sudah membaca (I have read) [CONTRIBUTING](https://github.com/bellshade/CPP/blob/main/CONTRIBUTING.md) dan sudah menyetujui semua syarat.
- - [x] Saya telah menambahkan komentar kode yang memberikan penjelasan maksud dari kode yang saya buat.
- - [x] Saya menggunakan bahasa Indonesia untuk memberikan penjelasan dari kode yang saya buat.
-
-# Environment
-Saya menggunakan (I'm using):
-
-- ``OS`` = `linux` 
-- ``g++`` = `15.2.1` 
-
-
-
-# Link Issues
-
-Issues : # 
-
-
-
-This Commit License
-https://github.com/bellshade/CPP/blob/main/license
-
-Co-authored-by: bellshadebot &lt;bellshade07@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0ba10e2</div>
-                                        <div class="message">feat: add visualize step linear probing
-
-# Deskripsi (Description)
-Menambahkan visualisasi menggunakan [manim](https://gist.github.com/yusuf601/aa4562297e3743d6e2068b09b7970d7d) dan di compile ke gift.
-1.**Menambahkan direktori baru**
-```bash
-├── asset
-│   ├── gift
-│   │   ├── step0.gif
-│   │   ├── step1.gif
-│   │   ├── step2.gif
-│   │   └── step3.gif
-│   ├── hash_table_chaining.png
-│   ├── hash_table_collision.png
-│   ├── hash_table_visualisasi.png
-│   └── tabel_hash_kode_demo.png
-├── hash_function
-│   └── multiplication_method.cpp
-├── hash_table.cpp
-├── open_adressing
-│   ├── linear_probing
-│   │   └── division_method.cpp
-│   └── readme.md
-└── readme.md
-
-6 directories, 13 files
-```
-2.**Embeed Gift**
-```bash
-![step1](../asset/gift/step0.gif)
-```
-# Checklist:
-##### Umum:
-- [x] Saya menambah algoritma terbaru.
-- [x] Saya memperbaiki algoritma yang sudah ada.
-- [x] Saya memperbaiki dokumentasi.
-- [x] Saya menambah dokumentasi.
-
-##### Contributor Requirements (Syarat Kontributor) dan Lain-Lain:
- - [x] Saya sudah membaca (I have read) [CONTRIBUTING](https://github.com/bellshade/CPP/blob/main/CONTRIBUTING.md) dan sudah menyetujui semua syarat.
- - [x] Saya telah menambahkan komentar kode yang memberikan penjelasan maksud dari kode yang saya buat.
- - [x] Saya menggunakan bahasa Indonesia untuk memberikan penjelasan dari kode yang saya buat.
-
-# Environment
-Saya menggunakan (I'm using):
-
-- ``OS`` = `Linux`
-- ``g++`` =  `15.2.1`
-
-
-
-# Link Issues
-
-Issues : # 
-
-
-
-This Commit License
-https://github.com/bellshade/CPP/blob/main/license
-
-Co-authored-by: bellshadebot &lt;bellshade07@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2e56c08</div>
-                                        <div class="message">feat: menambahkah algoritma sorting pigeonhole
-
-# Deskripsi (Description)
-
-
-
-Menambahkan file pigeonhole.cpp pada direktori /algoritma/sorting.
-Pigeonhole sorting adalah salah satu algoritma sorting non perbandingan, cara kerjanya adalah membuat array kosong berjumlah selisih antara nilai data terbesar dan nilai data terkecil. array kosong tersebut kemudian dapat ditempati oleh data sesuai urutanya. 
-
-
-# Checklist:
-##### Umum:
-- [x] Saya menambah algoritma terbaru.
-- [ ] Saya memperbaiki algoritma yang sudah ada.
-- [ ] Saya memperbaiki dokumentasi.
-- [ ] Saya menambah dokumentasi.
-
-##### Contributor Requirements (Syarat Kontributor) dan Lain-Lain:
- - [x] Saya sudah membaca (I have read) [CONTRIBUTING](https://github.com/bellshade/CPP/blob/main/CONTRIBUTING.md) dan sudah menyetujui semua syarat.
- - [x] Saya telah menambahkan komentar kode yang memberikan penjelasan maksud dari kode yang saya buat.
- - [x] Saya menggunakan bahasa Indonesia untuk memberikan penjelasan dari kode yang saya buat.
-
-# Environment
-Saya menggunakan (I'm using):
-
-- ``OS`` = Windows 
-- ``g++`` = 8.1.0 
-
-
-
-# Link Issues
-
-Issues : #158 
-
-
-
-This Commit License
-https://github.com/bellshade/CPP/blob/main/license
-
-Co-authored-by: bellshadebot &lt;bellshade07@gmail.com&gt;</div>
+                                        <div class="sha">#47dd3e7</div>
+                                        <div class="message">feat: menambahkan dokumentasi format doxygen</div>
                                     </div>
                                 </div>
                             </section>
@@ -377,7 +204,7 @@ Co-authored-by: bellshadebot &lt;bellshade07@gmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Oct 2025, 08:50:27 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Oct 2025, 09:57:36 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
