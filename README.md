@@ -49,10 +49,11 @@ Tidak ada aktivitas dilacak minggu Ini
 Tidak ada aktivitas dilacak minggu Ini
 ```
 
-**Kebanyakan menulis dalam bahasa C++** 
+**Kebanyakan menulis dalam bahasa JavaScript** 
 
 ```text
-C++                      1 repo              █████████████████████████   100.00 % 
+JavaScript               1 repo              ████████████░░░░░░░░░░░░░   50.00 % 
+C++                      1 repo              ████████████░░░░░░░░░░░░░   50.00 % 
 ```
 
 
@@ -62,5 +63,5 @@ C++                      1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Nabila224/Nabila224/main/assets/bar_graph.png)
 
 
- Last Updated on 18/10/2025 06:32:25 UTC
+ Last Updated on 18/10/2025 08:28:31 UTC
 <!--END_SECTION:waka-->
