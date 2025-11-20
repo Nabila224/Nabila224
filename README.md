@@ -5,7 +5,7 @@
 
 > 📦 2 Bytes Digunakan di GitHub Storage 
  > 
-> 🏆 8 Kontribusi pada 2025
+> 🏆 0 Kontribusi pada 2025
  > 
 > 🚫 Tidak sedang bisa dipekerjakan
  > 
@@ -63,5 +63,5 @@ C++                      1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Nabila224/Nabila224/main/assets/bar_graph.png)
 
 
- Last Updated on 20/11/2025 16:33:07 UTC
+ Last Updated on 20/11/2025 18:36:59 UTC
 <!--END_SECTION:waka-->
