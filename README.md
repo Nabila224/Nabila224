@@ -3,7 +3,7 @@
 
 **🐱 Dataku di GitHub** 
 
-> 📦 10.2 kB Digunakan di GitHub Storage 
+> 📦 8.1 kB Digunakan di GitHub Storage 
  > 
 > 🏆 3 Kontribusi pada 2026
  > 
@@ -63,5 +63,5 @@ C++                      1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Nabila224/Nabila224/main/assets/bar_graph.png)
 
 
- Last Updated on 14/06/2026 17:24:56 UTC
+ Last Updated on 14/06/2026 19:44:58 UTC
 <!--END_SECTION:waka-->
