@@ -3,7 +3,7 @@
 
 **🐱 Dataku di GitHub** 
 
-> 📦 14.6 kB Digunakan di GitHub Storage 
+> 📦 14.9 kB Digunakan di GitHub Storage 
  > 
 > 🏆 4 Kontribusi pada 2026
  > 
@@ -16,21 +16,21 @@
 **Aku orangnya diurnal 🐤** 
 
 ```text
-🌞 Pagi                   9 commits           ███████████░░░░░░░░░░░░░░   42.86 % 
-🌆 Siang                  8 commits           ██████████░░░░░░░░░░░░░░░   38.10 % 
-🌃 Petang                 4 commits           █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+🌞 Pagi                   7 commits           █████████░░░░░░░░░░░░░░░░   36.84 % 
+🌆 Siang                  8 commits           ███████████░░░░░░░░░░░░░░   42.11 % 
+🌃 Petang                 4 commits           █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
 🌙 Malam                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **Paling produktif saat Senin** 
 
 ```text
-Senin                    11 commits          █████████████░░░░░░░░░░░░   52.38 % 
-Selasa                   4 commits           █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+Senin                    11 commits          ██████████████░░░░░░░░░░░   57.89 % 
+Selasa                   4 commits           █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
 Rabu                     0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Kamis                    2 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Kamis                    0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Jumat                    0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sabtu                    0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Minggu                   4 commits           █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+Minggu                   4 commits           █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
 ```
 
 
@@ -58,8 +58,7 @@ No AI Coding Activity Tracked This Week
 **Kebanyakan menulis dalam bahasa JavaScript** 
 
 ```text
-JavaScript               1 repo              ████████████░░░░░░░░░░░░░   50.00 % 
-C++                      1 repo              ████████████░░░░░░░░░░░░░   50.00 % 
+JavaScript               1 repo              █████████████████████████   100.00 % 
 ```
 
 
@@ -69,5 +68,5 @@ C++                      1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Nabila224/Nabila224/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2026 16:14:55 UTC
+ Last Updated on 11/09/2026 20:47:57 UTC
 <!--END_SECTION:waka-->
