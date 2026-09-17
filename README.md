@@ -1,9 +1,9 @@
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profil%20dilihat-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profil%20dilihat-0-blue?style=flat)
 
 **🐱 Dataku di GitHub** 
 
-> 📦 11.2 kB Digunakan di GitHub Storage 
+> 📦 11.8 kB Digunakan di GitHub Storage 
  > 
 > 🏆 4 Kontribusi pada 2026
  > 
@@ -68,5 +68,5 @@ JavaScript               1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Nabila224/Nabila224/main/assets/bar_graph.png)
 
 
- Last Updated on 17/09/2026 04:32:07 UTC
+ Last Updated on 17/09/2026 11:23:40 UTC
 <!--END_SECTION:waka-->
